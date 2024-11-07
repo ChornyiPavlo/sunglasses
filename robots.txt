@@ -1,0 +1,6 @@
+User-Agent: *
+Disallow:
+
+
+Sitemap: http://aviator.sunglasseshobby.com/sitemap.xml
+Host: aviator.sunglasseshobby.com
